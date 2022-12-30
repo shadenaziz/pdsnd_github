@@ -7,7 +7,7 @@ Dec 2022
 Bike share
 
 ### Description
-Describe what your project is about and what it does
+it is about bike share systems for three major cities in the US
 
 ### Files used
 Include the files used
