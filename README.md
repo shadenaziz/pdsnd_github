@@ -8,6 +8,7 @@ Bike share systems
 
 ### Description
 it is about bike share systems for three major cities in the US
+i wrote the code to import the data and answer interesting questions about it by computing descriptive statistics.
 
 ### Files used
 we used 3 Excel files.
